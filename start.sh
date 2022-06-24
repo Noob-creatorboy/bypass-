@@ -1,3 +1,3 @@
-git clone https://github.com/creator-boy/PyroNoobCodeX
-cd PyroNoobCodeX
+git clone https://github.com/Noob-creatorboy/Pyronoob
+cd Pyronoob
 python main.py
