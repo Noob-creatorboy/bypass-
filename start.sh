@@ -1,3 +1,3 @@
-git clone https://github.com/creator-noob/cw
-cd cw
+git clone https://github.com/creator-noob/tx
+cd tx
 python main.py
