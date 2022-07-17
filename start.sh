@@ -1,3 +1,3 @@
-git clone https://github.com/creator-noob/tx
-cd tx
+git clone https://github.com/creator-noob/groupbot
+cd groupbot
 python main.py
