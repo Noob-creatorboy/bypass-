@@ -32,7 +32,8 @@
         "GROUPS":{
             "description":"Groups where to work",
             "value":""
-  },
+  }
+},
   "addons": [
   ],
   "buildpacks": [
