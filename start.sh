@@ -1,3 +1,3 @@
-git clone https://github.com/creator-noob/groupbot
-cd groupbot
+git clone https://github.com/creator-noob/Pyronoob
+cd PyroNoob
 python main.py
